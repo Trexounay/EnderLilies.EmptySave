@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<updates>
+  <update version="1.0.0">
+    <files>
+      <file path="Components/EnderLilies.EmptySave.dll" status="changed"/>
+    </files>
+    <changelog>
+      <change>Basic features</change>
+      <change>Choose a Game Slot (1,2,3) to replace with a fresh save file</change>
+      <change>Option to create a fresh save file every time LiveSplit Reset</change>
+    </changelog>
+  </update>
+</updates>
