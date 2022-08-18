@@ -1,5 +1,6 @@
 # EnderLilies.EmptySave
 Create empty save files for Ender Lilies
+![Download the last version here](https://github.com/Trexounay/EnderLilies.EmptySave/releases)
 
 # Installation
 
