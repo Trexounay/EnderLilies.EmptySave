@@ -1,5 +1,5 @@
 # EnderLilies.EmptySave
-This LiveSplit component allow you to create empty save files for Ender Lilies directly from LiveSplit.
+This LiveSplit component allows you to create empty save files for Ender Lilies directly from LiveSplit.
 You can configure a save slot number to use and weither it should automatically create the save when the timer restarts. 
 ![Download the last version here](https://github.com/Trexounay/EnderLilies.EmptySave/releases)
 
